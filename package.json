@@ -1,0 +1,26 @@
+{
+  "name": "chat-room-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitoutofbox/chat-room-nodejs.git"
+  },
+  "author": "CodeStudio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitoutofbox/chat-room-nodejs/issues"
+  },
+  "homepage": "https://github.com/gitoutofbox/chat-room-nodejs#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.17.1",
+    "mongoose": "^7.5.0",
+    "mysql": "^2.18.1",
+    "socket.io": "^3.1.0"
+  }
+}
